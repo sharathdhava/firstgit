@@ -1,3 +1,4 @@
 W:
 cd jenkins
 java -jar jenkins.war
+exit
